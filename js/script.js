@@ -13,6 +13,6 @@ function toggleMenu() {
         nav.style.display = 'block';
 
     } else {
-        nav.computedStyleMap.display = 'none';
+        nav.style.display = 'none';
     }
 }
